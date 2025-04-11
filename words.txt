@@ -1,0 +1,10 @@
+macaco
+carro
+casa
+mercado
+moto
+parceiro
+namorada
+filho
+filha
+filmar
